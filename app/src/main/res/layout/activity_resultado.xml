@@ -20,7 +20,7 @@
         app:srcCompat="@drawable/resultado" />
 
     <TextView
-        android:id="@+id/PesoText"
+        android:id="@+id/pesoText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
@@ -33,7 +33,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
     <TextView
-        android:id="@+id/AlturaText"
+        android:id="@+id/alturaText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
@@ -43,7 +43,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/PesoText" />
+        app:layout_constraintTop_toBottomOf="@+id/pesoText" />
 
     <TextView
         android:id="@+id/diagnósticoText"
@@ -56,7 +56,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/AlturaText" />
+        app:layout_constraintTop_toBottomOf="@+id/alturaText" />
 
     <TextView
         android:id="@+id/resultadoText"
