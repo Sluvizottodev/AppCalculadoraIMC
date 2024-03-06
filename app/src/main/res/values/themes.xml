@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppCalculadoraIMC" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <item name="colorPrimary">@color/Primaria</item>
+    <item name="colorPrimaryVariant">@color/primaria_variaçao</item>
+    <item name="android:windowBackground">@color/fundo</item>
+
+    </style>
+
+    <style name="Theme.AppCalculadoraIMC" parent="Base.Theme.AppCalculadoraIMC" />
+</resources>
