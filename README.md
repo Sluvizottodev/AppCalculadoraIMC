@@ -1,5 +1,15 @@
 # 📱Calculadora de IMC em Kotlin
 
+<p align="center">
+  <a href="[URL_DA_IMAGEM](https://i.makeagif.com/media/6-20-2018/hH5G05.mp4)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&size=25&center=true&vCenter=true&width=435&height=40&lines=Venha+conhecer+j%C3%A1!">
+  </a>
+</p>
+
+
+
+
+
 O aplicativo de Kotlin para calcular o Índice de Massa Corporal (IMC) é um exemplo prático que utiliza conceitos básicos da linguagem Kotlin e do desenvolvimento para Android. Ele permite que o usuário insira seu peso e altura, calcula o IMC com base nesses dados e exibe o resultado, indicando se o IMC está abaixo do peso, normal, com sobrepeso ou obesidade.
 
 ## 🤓Funcionalidades
